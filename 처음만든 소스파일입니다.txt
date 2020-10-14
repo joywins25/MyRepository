@@ -1,2 +1,4 @@
 Somebody edited this text and pushed it here.
 누군가 이 텍스트를 편집하고 여기에 푸쉬했습니다.
+I edited this text and pushed it here.
+내가 이 텍스트를 편집하고 여기에 푸쉬했습니다.
